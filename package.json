@@ -1,0 +1,12 @@
+{
+  "name": "openai-voice-utils",
+  "version": "1.0.1",
+  "author": "LearnToBeFoundation",
+  "private": true,
+  "type": "module",
+  "description": "wavtools from openai repository",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LearnToBeFoundation/openai-voice-utils"
+  }
+}
